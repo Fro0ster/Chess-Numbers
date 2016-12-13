@@ -1,0 +1,7 @@
+Known Bugs in the program:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+	2.Check if to place is vacant
+	3.Pawn can move two steps at first
+	5.Check for check and check mate
+	
+
